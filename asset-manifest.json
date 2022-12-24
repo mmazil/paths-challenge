@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mmazil/paths-challenge/static/css/main.8e9ceb19.css",
+    "main.js": "/mmazil/paths-challenge/static/js/main.9adc58de.js",
+    "static/js/787.2fca3d6f.chunk.js": "/mmazil/paths-challenge/static/js/787.2fca3d6f.chunk.js",
+    "index.html": "/mmazil/paths-challenge/index.html",
+    "main.8e9ceb19.css.map": "/mmazil/paths-challenge/static/css/main.8e9ceb19.css.map",
+    "main.9adc58de.js.map": "/mmazil/paths-challenge/static/js/main.9adc58de.js.map",
+    "787.2fca3d6f.chunk.js.map": "/mmazil/paths-challenge/static/js/787.2fca3d6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e9ceb19.css",
+    "static/js/main.9adc58de.js"
+  ]
+}
